@@ -1,11 +1,11 @@
 ---
 title: I'm Himanshu Kumar
-first_name: MacGyver
-last_name: SOMRAT
+first_name: HIMANSHU
+last_name: KUMAR
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
-- Web Developer
-- Graphic Designer
+- Data Aanalyst
+- Filmmaker
 - Database Manager
 slider_images:
 - images/slider/slider-1.jpg
